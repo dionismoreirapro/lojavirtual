@@ -12,4 +12,3 @@ O projeto da loja virtual que estou fazendo é para poder praticar as tecnologia
     CSS
     JS
     
-
